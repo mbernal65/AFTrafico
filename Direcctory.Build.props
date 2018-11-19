@@ -1,0 +1,12 @@
+<Project>
+ <PropertyGroup>
+   <Deterministic>true</Deterministic>
+ </PropertyGroup>
+ <PropertyGroup>
+   <LangVersion>latest</LangVersion>
+ </PropertyGroup>
+<PropertyGroup>
+   <Authors>Miguel Bernal</Authors>
+   <Company>AFT</Company>
+ </PropertyGroup>
+</Project>
